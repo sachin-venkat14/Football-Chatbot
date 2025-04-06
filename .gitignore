@@ -1,0 +1,15 @@
+# Ignore virtual environments
+football_env/
+venv/
+
+# Ignore local memory logs
+chat_memory.json
+
+# MacOS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+.env
